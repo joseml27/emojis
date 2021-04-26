@@ -1,0 +1,39 @@
+*{
+    margin: 1;
+    padding: 0;
+}
+
+
+h1.aloyo{
+    text-align: center;
+    font-size: 80px;
+}
+
+
+.cuadrosr{
+    width: 1300px;
+    height: 150px;;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-top: 50px;
+    margin: auto;
+    padding: 100px;
+    box-sizing: border-box;
+    
+}
+
+
+
+
+.cuadrosr div{
+    width: 140px;
+    height: 140px;
+    background-color: gainsboro;
+    font-size: 70px;
+    text-align: center;
+    border: 1px solid pink;
+    margin: 10px;
+   
+}
